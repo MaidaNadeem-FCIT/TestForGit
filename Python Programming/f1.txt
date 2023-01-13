@@ -1,0 +1,5 @@
+This is a practise file for file handling.
+In which i am trying to open a text file.
+Then try reading a file in all available modes.
+Then try writing in this file in all modes at start and end using append.
+Then close the file to avoid any problem.

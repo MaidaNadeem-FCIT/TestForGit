@@ -1,0 +1,5 @@
+ As file opened in W+ so old data is truncated. Adding new dataoniontomatopotatobrinjal
+onion
+tomato
+potato
+brinjal
